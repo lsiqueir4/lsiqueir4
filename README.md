@@ -1,16 +1,25 @@
-### Hi there 👋
+# Beginner Developer!
 
-<!--
-**lsiqueir4/lsiqueir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Leandro Siqueira, atualmente estudo Python e SQL com o objetivo de explorar oportunidades na área de desenvolvimento.
 
-Here are some ideas to get you started:
+### Conhecimentos:
+<div>
+- Lógica de programação;
+</div><div>
+- Python (Automaçao de processos e web, coleta e analise de dados);
+</div><div>
+- Selenium, Pandas, Pyautogui etc.(bibliotecas Python);
+</div><div>
+- MySQL;
+</div><div>
+- Github;
+</div><div>
+- HTML5 e CSS3;
+</div><div>
+- Ferramentas: VSCode, Github Desktop, Jupyter, MySQL Workbench, PowerBI.
+</div>
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsiqueir4)](https://github.com/anuraghazra/github-readme-stats)
