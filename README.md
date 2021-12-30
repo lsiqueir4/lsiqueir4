@@ -6,9 +6,9 @@ Sou Leandro Siqueira, atualmente estudo Python e SQL com o objetivo de explorar 
 <div>
 - Lógica de programação;
 </div><div>
-- Python (Automaçao de processos e web, coleta e analise de dados);
+- Python (Automaçao de processos e scrap, coleta e analise de dados);
 </div><div>
-- Selenium, Pandas, Pyautogui etc.(bibliotecas Python);
+- Scrapy, Selenium, Pandas, Pyautogui etc.(bibliotecas Python);
 </div><div>
 - MySQL;
 </div><div>
