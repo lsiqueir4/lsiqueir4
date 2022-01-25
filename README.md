@@ -10,6 +10,8 @@ Sou Leandro Siqueira, atualmente estudo Python e SQL com o objetivo de explorar 
 </div><div>
 - Scrapy, Selenium, Pandas, Pyautogui etc.(bibliotecas Python);
 </div><div>
+- Frameworks Django e Flask
+</div><div>
 - MySQL;
 </div><div>
 - Github;
