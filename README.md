@@ -1,5 +1,3 @@
-# Beginner Developer!
-
 Desenvolvedor back-end buscando expandir conhecimentos para se tornar full-stack. Mais de 3 anos de experiencia em desenvolvimento de Apis REST com Python.
 
 Desenvolvimento Back-end
