@@ -5,16 +5,15 @@ Desenvolvedor back-end buscando expandir conhecimentos para se tornar full-stack
 <div>
 Desenvolvimento Back-end
 Python 3 | MySQL | SQLAlchemy | FastAPI| Falcon | Flask | Redis | Pytest 
-</div><div>
+</div><div><br>
 Observabilidade 
 Grafana |Opsgenie | Google Cloud Platform (logs e métricas)
-</div><div>
+</div><div><br>
 Ferramentas
 Git | Github | Gitlab | Pub/Sub | Docker | Dbeaver | Jira | Notion
 </div>
 <br>
-<br>
-<br>
+
 <div>
 - Lógica de programação;
 </div><div>
