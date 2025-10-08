@@ -1,27 +1,23 @@
 # Beginner Developer!
 
-Sou Leandro Siqueira, atualmente estudo Python e SQL com o objetivo de explorar oportunidades na área de desenvolvimento.
+Desenvolvedor back-end buscando expandir conhecimentos para se tornar full-stack. Mais de 3 anos de experiencia em desenvolvimento de Apis REST com Python.
 
-### Conhecimentos:
 <div>
-- Lógica de programação;
+Desenvolvimento Back-end
+Python 3 | MySQL | SQLAlchemy | FastAPI| Falcon | Flask | Redis | Pytest 
 </div><div>
-- Python (Automaçao de processos e scrap, coleta e analise de dados);
+Observabilidade 
+Grafana |Opsgenie | Google Cloud Platform (logs e métricas)
 </div><div>
-- Scrapy, Selenium, Pandas, Pyautogui etc.(bibliotecas Python);
-</div><div>
-- Frameworks Django e Flask
-</div><div>
-- MySQL;
-</div><div>
-- Github;
-</div><div>
-- HTML5 e CSS3;
-</div><div>
-- Ferramentas: VSCode, Github Desktop, Jupyter, MySQL Workbench, PowerBI.
+Ferramentas
+Git | Github | Gitlab | Pub/Sub | Docker | Dbeaver | Jira | Notion
 </div>
 <br>
 <br>
 <br>
+<div>
+- Lógica de programação;
+</div><div>
+- Python (Automaçao de processos e scrap, coleta e analise de dados);
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsiqueir4)](https://github.com/anuraghazra/github-readme-stats)
