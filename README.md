@@ -4,7 +4,7 @@ Desenvolvimento Back-end
 Python 3 | MySQL | SQLAlchemy | FastAPI| Falcon | Flask | Redis | Pytest 
 
 Observabilidade 
-Grafana |Opsgenie | Google Cloud Platform (logs e métricas)
+Grafana | Opsgenie | Google Cloud Platform (logs e métricas)
 
 Ferramentas
 Git | Github | Gitlab | Pub/Sub | Docker | Dbeaver | Jira | Notion
