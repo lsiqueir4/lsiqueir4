@@ -8,6 +8,3 @@ Grafana | Opsgenie | Google Cloud Platform (logs e métricas)
 
 Ferramentas
 Git | Github | Gitlab | Pub/Sub | Docker | Dbeaver | Jira | Notion
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsiqueir4)](https://github.com/anuraghazra/github-readme-stats)
